@@ -3,9 +3,9 @@ import { Navbar } from "../components/Navbar";
 
 export function Layout() {
   return (
-    <div>
+    <div className="bg-indigo-400">
       <Navbar />
-      <section className="bg-amber-200 flex justify-center">
+      <section className= "flex justify-center">
         <Outlet />
       </section>
     </div>
