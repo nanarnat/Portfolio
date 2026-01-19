@@ -8,7 +8,7 @@ export default function Contact() {
 Feel free to contact me.
         </p>
         <div className="flex gap-7 w-full justify-center">
-        <a href="mailto:sritanaanantnattha@gmail.com"
+        <a href="mailto:gamenattha@hotmail.com"
            className="px-8 py-4 bg-cyan-500 text-black rounded-lg hover:bg-cyan-400 transition">
           Send Email
         </a>
